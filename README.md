@@ -4,14 +4,6 @@ Is an advanced JavaScript application in which users can search through cooking 
 
 - This web application is not mobile responsive, so open the demo in desktop view
 
----
-
-## Live Demo
-
-https://forkify-auzair.netlify.app/
-
----
-
 ## Screenshots
 
 ![Home Page](./screenshots/home.png)
